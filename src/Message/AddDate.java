@@ -19,6 +19,6 @@ public class AddDate extends MessageDecorator{
     @Override
     public void getFullDescription() {
         super.getFullDescription();
-        System.out.println("+До повідомлення додано дато");
+        System.out.println("+До повідомлення додано дату");
     }
 }
